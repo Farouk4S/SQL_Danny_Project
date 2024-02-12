@@ -5,7 +5,33 @@
 # Title:        How users 
 # Subtitle:     Dail   */
 
-
+/*
+--------------------------
+	WEEK 1 Danny's Diner
+	Danny has created a restaurant to sell his 3 most favoured dishes
+	Sushi, Curry, and Ramen.
+	---------------------------
+	AIM:
+	This project's aim is to help the restaurant use their data to run the business.
+	---------------------------
+	OBJECTIVES:
+	To have stored procedures on sales performance?
+	To have stored procedures on product performance?
+	To have stored procedures on demand characteristics?
+	To have stored procedures on store requirements?
+	---------------------------
+	KEY FEATURES & REQUIREMENTS:
+	Customer data? Customer table
+	Restaurant data? Restaurant/Staff data
+	Order data? Order Table
+	payment data? Inventory?
+	---------------------------
+	AVAILABLE DATA SET FROM Danny's Diner:
+	Sales:		For how much customers spent?
+	Menu:		For which products are in most demand?
+	Memebers:	For who are their top customers?
+	---------------------------
+	*/
 
 --- 1.0 What is the total amount each customer spent at the restaurant?
 /*
